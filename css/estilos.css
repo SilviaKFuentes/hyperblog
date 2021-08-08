@@ -9,6 +9,16 @@ body
 
 }
 
+#cabecera
+{
+    color: wheat;
+    background: purple;
+    font-weight: bold;
+    margin: 0em;
+    padding: 0.5em;
+    
+}
+
 #container 
 {
     width: 70%;
